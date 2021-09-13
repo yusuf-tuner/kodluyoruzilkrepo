@@ -3,5 +3,5 @@ Bu repo patika.dev üzerinden aldığım Front-end eğitimi için oluşturduğum
 
 ![Repository görüntüsü](https://github.com/yusuf-tuner/kodluyoruzilkrepo/blob/main/deneme-ilkrepo.jpeg)
 
-# installation
-projenin klonlandığı link :
+
+
